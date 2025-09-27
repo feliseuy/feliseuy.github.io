@@ -9,7 +9,7 @@ export default function Home() {
         </h1>
         <div className="flex justify-center gap-6 mt-4">
           <a
-            href="https://instagram.com"
+            href="https://instagram.com/feliseuy"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-600 hover:text-pink-500 transition"
@@ -17,7 +17,7 @@ export default function Home() {
             <Instagram size={36} />
           </a>
           <a
-            href="https://linkedin.com"
+            href="https://linkedin.com/in/felise"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-600 hover:text-blue-600 transition"
@@ -25,7 +25,7 @@ export default function Home() {
             <Linkedin size={36} />
           </a>
           <a
-            href="https://facebook.com"
+            href="https://facebook.com/feliseuy"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-600 hover:text-blue-700 transition"
